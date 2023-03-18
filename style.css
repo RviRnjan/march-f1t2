@@ -1,0 +1,126 @@
+html{
+    background-color: black;
+}
+.container{
+    display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+    border: 2px solid red;
+    margin: 20px;
+    border: 20px;
+    
+} 
+input{
+    height: 40px;
+    width: 500px;
+   display: flex;
+   align-items: center;
+   background-color: #262626;
+   border-radius: 20px; 
+
+}
+
+button{
+    height: 50px;
+    width: 150px;
+    background: #262626;
+    background-color:yellow;
+    color: black;
+    border-radius: 20px; 
+}
+.logo{
+    color: white ;}
+  
+
+.flex-items{
+    display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+    
+    border-radius: 5px;
+    color: white;
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-radius: 20px;
+    margin: 20px;
+    color: white;
+    background: #262626;
+
+  
+    
+    
+}
+.flex2{
+   
+    border-radius: 5px;
+    display: flex;
+    color: white;
+    
+}
+.clock{
+    width: 25px;
+    height: 25px;
+    color: white;
+    background-color: yellow;
+}
+.container3{
+    display: flex;
+   
+    flex-flow: row wrap;
+    padding: 20px;
+    
+    border-radius: 5px;
+    color: white;
+}
+.container4{
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    margin: 30px;
+    
+  justify-content: space-evenly;
+  border-radius: 10px;
+  color: white;
+}
+.container5{
+  
+    display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+    padding: 20px;
+    margin: 20px;
+  
+   background: #262626;
+   color: white;
+   border-radius: 10px;
+}
+.container6{
+
+    padding: 20px;
+    margin: 20px;
+    
+  justify-content: space-evenly;
+  color: white;
+  
+}
+.container7{
+
+    padding: 20px;
+    margin: 20px;
+  align-self: flex-start;
+  color: white;
+}
+.container8{
+
+    padding: 20px;
+    margin: 20px;
+  align-self: flex-start; 
+  color: white;
+}
+h1{
+    color: white;
+    padding-left: 40px;
+}
